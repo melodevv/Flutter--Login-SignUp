@@ -7,12 +7,12 @@ in a flutter app. I made use of email authenticationa and email authentication.
 
 1. Restore Project Packages
 
-```md
+```bash
 flutter pub get
 ```
 
 2. Run the application
 
-```md
+```bash
 flutter run
 ```
