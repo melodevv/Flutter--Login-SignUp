@@ -7,8 +7,12 @@ in a flutter app. I made use of email authenticationa and email authentication.
 
 1. Restore Project Packages
 
-```flutter pub get```
+```md
+flutter pub get
+```
 
 2. Run the application
 
-```flutter run```
+```md
+flutter run
+```
